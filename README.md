@@ -43,7 +43,7 @@ This project is used by the following companies:
   
 ## Documentation
 
-[Documentation](https://airflow.apache.org/docs/apache-airflow/stable/)
+[Airflow Documentation](https://airflow.apache.org/docs/apache-airflow/stable/)
 
   
 ## Authors
@@ -51,22 +51,13 @@ This project is used by the following companies:
 - [@OsamaHameedX](https://github.com/osamahameedX)
 
   
-## Badges
-
-
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) 
-
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)  
-
-
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-  
-
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
+
+
+
+
 
   
